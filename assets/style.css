@@ -38,6 +38,9 @@ html {
     /*    border-right: 2px solid crimson;*/
     animation: text 6s steps(20) infinite alternate;
 }
+.alert{
+    position: sticky;
+}
 
 @keyframes text {
     0% {
